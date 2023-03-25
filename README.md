@@ -29,3 +29,6 @@ This event-driven model allows Node.js to handle large numbers of concurrentrequ
 5.  <h2>REPL</h2>
 REPL stands for Read-Eval-Print Loop. <br>
 In a REPL environment, the user enters a command or code snippet, which is then evaluated by the interpreter or compiler. The result is printed out to the console, and the user can then enter another command or snippet.<br>
+
+6.  <h2>Create a javascript file and inside the file add code that will log in to the console, your name, your preferred programming language, and where you see yourself in the next 1 year.</h2>
+Check the file "index.js".
