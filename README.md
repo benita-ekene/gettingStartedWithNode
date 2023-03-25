@@ -6,8 +6,8 @@ An  example of a monolithic architecture is a traditional e-commerce <br> websit
 The disadvantage of this architecture is that any changes or updates <br>to one part of the application may require the entire application to be rebuilt and redeployed.<br>
 
 2.  <h2>Microservices </h2>
-Microservice architecture is a software application design that involves <br> breaking down a large application into smaller, independent services <br>that communicate with each other through APIs. In a microservice <br>architecture, each service is responsible for performing a specific function or set of functions, and can be developed, deployed, and scaled <br>independently of the other services.<br>
-Each microservice typically runs in its own process and can be developed <br>using a different programming language or technology stack. The <br>services are loosely coupled and communicate with each other using <br>lightweight protocols like HTTP or message queues.<br>
+Microservice architecture is a software application design that involves breaking down a large application into smaller, independent services that communicate with each other through APIs. In a microservice architecture, each service is responsible for performing a specific function or set of functions, and can be developed, deployed, and scaled independently of the other services.<br>
+Each microservice typically runs in its own process and can be developed using a different programming language or technology stack. The services are loosely coupled and communicate with each other using lightweight protocols like HTTP or message queues.<br>
 
 3.  <h2>Backend architecture appeals to me</h2>
 Backend architecture refers to the design and organization of the server-side<br> components of a software application. The backend architecture<br> is responsible for handling data storage, processing, and management,<br> as well as communication with the client-side components of the application.<br>
