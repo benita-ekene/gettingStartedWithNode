@@ -12,7 +12,7 @@ Each microservice typically runs in its own process and can be developed using a
 
 3.  <h2>Backend architecture that appeals to me</h2>
 Backend architecture refers to the design and organization of the server-side components of a software application. The backend architecture is responsible for handling data storage, processing, and management, as well as communication with the client-side components of the application.<br>
-/**The backend architecture for me is Microservices architecture because od the following features:**/
+/**The backend architecture for me is Microservices architecture because of the following features:**/
 1. Scalability: Each microservice can be scaled independently of the other services, allowing the application to handle increasing amounts of traffic.<br>
 3. Resilience: Since each microservice is independent, failures in one service do not affect the other services, and the application as a whole can be more resilient.<br>
 
