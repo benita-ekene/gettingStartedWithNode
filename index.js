@@ -1,0 +1,1 @@
+console.log("My name is Benita." + "\n" + "My preferred programming language is JavaScript." + "\n" + "I see myself become a competent Backend Developer in the next one year.")
