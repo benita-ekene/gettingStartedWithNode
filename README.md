@@ -3,7 +3,7 @@
 1.  <h2> Monolithic architecture</h2>
 Monolithic architecture refers to a software application design where the entire application is built as a single, self-contained unit. In a  monolithic architecture, all the different components and functionalities of the application are tightly coupled together and run as a single process.<br>
 An  example of a monolithic architecture is a traditional e-commerce website  where all the different components and functionalities of the  website, such as the product catalog, shopping cart, user authentication, and payment processing, would be tightly coupled together and run as a single process.<br>
-The disadvantage of this architecture is that any changes or updates <br>to one part of the application may require the entire application to be rebuilt and redeployed.<br>
+The disadvantage of this architecture is that any changes or updates to one part of the application may require the entire application to be rebuilt and redeployed.<br>
 
 2.  <h2>Microservices </h2>
 Microservice architecture is a software application design that involves breaking down a large application into smaller, independent services that communicate with each other through APIs. In a microservice architecture, each service is responsible for performing a specific function or set of functions, and can be developed, deployed, and scaled independently of the other services.<br>
